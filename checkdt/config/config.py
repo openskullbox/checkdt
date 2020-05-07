@@ -1,0 +1,6 @@
+CORE__ENCRYPTION_KEY = 'generate_your_key'
+CORE__SQLALCHEMY_CONN = 'postgresql+psycopg2://checkdt:checkdt@192.168.0.110/checkdt'
+AWS__S3_CONN_TYPE = 'keys'
+AWS__S3_BUCKET = 'sample'
+AWS__ACCESS_KEY_ID = 'xxxxx'
+AWS__SECRET_ACCESS_KEY = 'xxxxx'

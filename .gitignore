@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+checkdt.egg-info
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.pytest_coverage.xml
+
+# Sphinx documentation
+docs/_build/
+
+# pyenv
+.python-version
+.idea
+
+# celery beat schedule file
+celerybeat-schedule
+
+# Environments
+.venv
+env/
+
+# Database docker storage
+pgdata
